@@ -44,17 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/skate/proprietary/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh \
     vendor/zte/skate/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/zte/skate/proprietary/bin/hciattach:system/bin/hciattach \
-    vendor/zte/skate/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
-    vendor/zte/skate/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
-    vendor/zte/skate/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
-    vendor/zte/skate/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
-    vendor/zte/skate/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
-    vendor/zte/skate/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
-    vendor/zte/skate/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-    vendor/zte/skate/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
-    vendor/zte/skate/proprietary/lib/libgsl.so:system/lib/libgsl.so \
-    vendor/zte/skate/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
-    vendor/zte/skate/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/zte/skate/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/zte/skate/proprietary/lib/libloc_api-rpc-qc.so:system/lib/libloc_api-rpc-qc.so \
     vendor/zte/skate/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
