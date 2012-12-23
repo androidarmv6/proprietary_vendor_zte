@@ -41,7 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/skate/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/zte/skate/proprietary/bin/BCM2070B0_002.001.032.0518.0520.hcd:system/bin/BCM2070B0_002.001.032.0518.0520.hcd \
     vendor/zte/skate/proprietary/etc/BCM2070B0_002.001.032.0518.0520.hcd:system/etc/BCM2070B0_002.001.032.0518.0520.hcd \
-    vendor/zte/skate/proprietary/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh \
     vendor/zte/skate/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/zte/skate/proprietary/bin/hciattach:system/bin/hciattach \
     vendor/zte/skate/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
