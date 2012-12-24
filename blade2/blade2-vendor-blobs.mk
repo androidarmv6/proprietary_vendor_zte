@@ -38,9 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/blade2/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/zte/blade2/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/zte/blade2/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
-    vendor/zte/blade2/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/zte/blade2/proprietary/bin/hciattach:system/bin/hciattach \
-    vendor/zte/blade2/proprietary/bin/BCM4330B1_0243.0000_ZTE_P736V.hcd:system/bin/BCM4330B1_0243.0000_ZTE_P736V.hcd \
+    vendor/zte/blade2/proprietary/etc/BCM4330B1_0243.0000_ZTE_P736V.hcd:system/etc/BCM4330B1_0243.0000_ZTE_P736V.hcd \
     vendor/zte/blade2/proprietary/etc/BCM4330B1_002.001.032.0518.0520.hcd:system/etc/BCM4330B1_002.001.032.0518.0520.hcd \
     vendor/zte/blade2/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/zte/blade2/proprietary/lib/libloc_api-rpc-qc.so:system/lib/libloc_api-rpc-qc.so \
