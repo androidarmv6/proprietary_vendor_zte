@@ -38,6 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/skate/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/zte/skate/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/zte/skate/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+    vendor/zte/skate/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
     vendor/zte/skate/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/zte/skate/proprietary/bin/BCM2070B0_002.001.032.0518.0520.hcd:system/bin/BCM2070B0_002.001.032.0518.0520.hcd \
     vendor/zte/skate/proprietary/etc/BCM2070B0_002.001.032.0518.0520.hcd:system/etc/BCM2070B0_002.001.032.0518.0520.hcd \
